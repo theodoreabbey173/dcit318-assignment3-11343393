@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dynabook\\Desktop\\dcit318-assignment3-11343393\\Warehouse Inventory\\Warehouse Inventory.csproj",
-      "projectName": "Warehouse Inventory",
-      "projectPath": "C:\\Users\\Dynabook\\Desktop\\dcit318-assignment3-11343393\\Warehouse Inventory\\Warehouse Inventory.csproj",
+      "projectUniqueName": "C:\\Users\\Dynabook\\Desktop\\dcit318-assignment3-11343393\\Warehouse Inventory System\\Warehouse Inventory System.csproj",
+      "projectName": "Warehouse Inventory System",
+      "projectPath": "C:\\Users\\Dynabook\\Desktop\\dcit318-assignment3-11343393\\Warehouse Inventory System\\Warehouse Inventory System.csproj",
       "packagesPath": "C:\\Users\\Dynabook\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Dynabook\\Desktop\\dcit318-assignment3-11343393\\Warehouse Inventory\\obj\\",
+      "outputPath": "C:\\Users\\Dynabook\\Desktop\\dcit318-assignment3-11343393\\Warehouse Inventory System\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

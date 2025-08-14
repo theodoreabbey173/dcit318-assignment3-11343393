@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "School Grading System", "Sc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Inventory Logger System", "Inventory Logger System\Inventory Logger System.csproj", "{A41FA3AA-19D1-4A3E-9077-E795D81ABD91}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Warehouse Inventory System", "Warehouse Inventory System\Warehouse Inventory System.csproj", "{F3A45571-3909-4647-8B7B-53DD93E5077C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -83,6 +85,18 @@ Global
 		{A41FA3AA-19D1-4A3E-9077-E795D81ABD91}.Release|x64.Build.0 = Release|Any CPU
 		{A41FA3AA-19D1-4A3E-9077-E795D81ABD91}.Release|x86.ActiveCfg = Release|Any CPU
 		{A41FA3AA-19D1-4A3E-9077-E795D81ABD91}.Release|x86.Build.0 = Release|Any CPU
+		{F3A45571-3909-4647-8B7B-53DD93E5077C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F3A45571-3909-4647-8B7B-53DD93E5077C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F3A45571-3909-4647-8B7B-53DD93E5077C}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{F3A45571-3909-4647-8B7B-53DD93E5077C}.Debug|x64.Build.0 = Debug|Any CPU
+		{F3A45571-3909-4647-8B7B-53DD93E5077C}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{F3A45571-3909-4647-8B7B-53DD93E5077C}.Debug|x86.Build.0 = Debug|Any CPU
+		{F3A45571-3909-4647-8B7B-53DD93E5077C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F3A45571-3909-4647-8B7B-53DD93E5077C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F3A45571-3909-4647-8B7B-53DD93E5077C}.Release|x64.ActiveCfg = Release|Any CPU
+		{F3A45571-3909-4647-8B7B-53DD93E5077C}.Release|x64.Build.0 = Release|Any CPU
+		{F3A45571-3909-4647-8B7B-53DD93E5077C}.Release|x86.ActiveCfg = Release|Any CPU
+		{F3A45571-3909-4647-8B7B-53DD93E5077C}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
