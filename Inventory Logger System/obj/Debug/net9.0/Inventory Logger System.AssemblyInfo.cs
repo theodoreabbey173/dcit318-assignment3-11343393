@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Inventory Logger System")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+39844548f39cce2d68d9259a5c059cb9eba230a1")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9bebace9fce1a01e72ed03a3d3ae618317a37f98")]
 [assembly: System.Reflection.AssemblyProductAttribute("Inventory Logger System")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Inventory Logger System")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
