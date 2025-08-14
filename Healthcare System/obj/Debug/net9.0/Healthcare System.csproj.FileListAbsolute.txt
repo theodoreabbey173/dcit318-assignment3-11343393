@@ -1,0 +1,15 @@
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Healthcare System\bin\Debug\net9.0\Healthcare System.exe
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Healthcare System\bin\Debug\net9.0\Healthcare System.deps.json
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Healthcare System\bin\Debug\net9.0\Healthcare System.runtimeconfig.json
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Healthcare System\bin\Debug\net9.0\Healthcare System.dll
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Healthcare System\bin\Debug\net9.0\Healthcare System.pdb
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Healthcare System\obj\Debug\net9.0\Healthcare System.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Healthcare System\obj\Debug\net9.0\Healthcare System.AssemblyInfoInputs.cache
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Healthcare System\obj\Debug\net9.0\Healthcare System.AssemblyInfo.cs
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Healthcare System\obj\Debug\net9.0\Healthcare System.csproj.CoreCompileInputs.cache
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Healthcare System\obj\Debug\net9.0\Healthcare System.sourcelink.json
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Healthcare System\obj\Debug\net9.0\Healthcare System.dll
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Healthcare System\obj\Debug\net9.0\refint\Healthcare System.dll
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Healthcare System\obj\Debug\net9.0\Healthcare System.pdb
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Healthcare System\obj\Debug\net9.0\Healthcare System.genruntimeconfig.cache
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Healthcare System\obj\Debug\net9.0\ref\Healthcare System.dll
