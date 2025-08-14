@@ -1,7 +1,6 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
-
 public class Repository<T>
 {
     private List<T> items = new List<T>();

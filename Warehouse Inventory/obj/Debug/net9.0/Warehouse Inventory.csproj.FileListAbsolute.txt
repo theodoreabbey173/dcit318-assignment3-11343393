@@ -1,0 +1,15 @@
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Warehouse Inventory\bin\Debug\net9.0\Warehouse Inventory.exe
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Warehouse Inventory\bin\Debug\net9.0\Warehouse Inventory.deps.json
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Warehouse Inventory\bin\Debug\net9.0\Warehouse Inventory.runtimeconfig.json
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Warehouse Inventory\bin\Debug\net9.0\Warehouse Inventory.dll
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Warehouse Inventory\bin\Debug\net9.0\Warehouse Inventory.pdb
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Warehouse Inventory\obj\Debug\net9.0\Warehouse Inventory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Warehouse Inventory\obj\Debug\net9.0\Warehouse Inventory.AssemblyInfoInputs.cache
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Warehouse Inventory\obj\Debug\net9.0\Warehouse Inventory.AssemblyInfo.cs
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Warehouse Inventory\obj\Debug\net9.0\Warehouse Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Warehouse Inventory\obj\Debug\net9.0\Warehouse Inventory.sourcelink.json
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Warehouse Inventory\obj\Debug\net9.0\Warehouse Inventory.dll
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Warehouse Inventory\obj\Debug\net9.0\refint\Warehouse Inventory.dll
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Warehouse Inventory\obj\Debug\net9.0\Warehouse Inventory.pdb
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Warehouse Inventory\obj\Debug\net9.0\Warehouse Inventory.genruntimeconfig.cache
+C:\Users\Dynabook\Desktop\dcit318-assignment3-11343393\Warehouse Inventory\obj\Debug\net9.0\ref\Warehouse Inventory.dll
